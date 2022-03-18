@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+.container h1 {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: #118276;
+    text-align: center;
+    font-size: 60px;
+}
+.container nav {
+    text-align: center;
+    font-size: 20px;
+}
+nav  a:link {
+    color: #368C73;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #77B8A5;
+    text-decoration: underline;
+}
+.container h3 {
+    height: 30px;
+    text-decoration: none;
+    background-color: #C1EBE5;
+    border-radius: 50px;
+    line-height: 30px;
+    text-align: center;
+    color: #4C4C4C;
+}
+.container {
+    height: 3000px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
